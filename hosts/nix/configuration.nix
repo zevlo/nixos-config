@@ -164,7 +164,7 @@
     # nix tooling — LSP + formatter so Zed autocompletes/formats configuration.nix
     nil alejandra
     # AI CLI — opencode (SST's agent CLI)
-    opencode
+    # opencode
   ];
 
   # ---- Misc --------------------------------------------------------------
